@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093258325346",
+    "project_id": "estudo-push-8e6bd",
+    "storage_bucket": "estudo-push-8e6bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093258325346:android:f7b779fd7ac9f70fdd103b",
+        "android_client_info": {
+          "package_name": "com.example.estudos_push"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaoZfyXgBOsWlUws3GPzv4VrMLsD1DyR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
