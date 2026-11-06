@@ -14,6 +14,7 @@ import 'package:flutter/foundation.dart'
 ///   options: DefaultFirebaseOptions.currentPlatform,
 /// );
 /// ```
+
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
@@ -60,3 +61,20 @@ class DefaultFirebaseOptions {
     storageBucket: 'estudo-push-8e6bd.firebasestorage.app',
   );
 }
+
+// CONFIGURATION NOTICE:
+// This Firebase configuration was created exclusively for academic
+// demonstration and testing purposes.
+//
+// It was used in a temporary Firebase project to demonstrate
+// Firebase Cloud Messaging (FCM) functionality.
+//
+// The original Firebase project has been decommissioned after
+// completion of the academic activity.
+//
+// These values are retained only as historical configuration examples.
+// They must not be considered production credentials or reused
+// in a production environment.
+//
+// To enable Firebase functionality again, configure a new Firebase
+// project using the FlutterFire CLI.
